@@ -28,7 +28,7 @@ SECRET_KEY = 'j5!c^+gjl8z@3($zs$d#f=yg3!r5!e+otxyb%gjxjxv(xz9pen'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bananee.pythonanywhere.com']
 
 
 # Application definition
